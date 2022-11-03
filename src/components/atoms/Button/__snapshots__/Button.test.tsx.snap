@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`atoms/Button Default 1`] = `
+<button
+  aria-label="Open modal"
+  class="s8sdw4g"
+  font-size="32px"
+  style="--s8sdw4g-0: 32px;"
+>
+  exe
+</button>
+`;
